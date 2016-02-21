@@ -1,6 +1,9 @@
 # scrapy-reddit
 Experimenting to scrape using Scrapy
 
+#### Learnings
+- XPATH  
+- Using `$x` in Chrome console
 
 #### Reference:
 
